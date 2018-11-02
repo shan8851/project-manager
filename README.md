@@ -6,6 +6,8 @@ This is a simple project management application that uses Firebase for the backe
 
 I would like to thank The Net Ninja for providing the information for this via a YouTube tutorial.
 
+You can view the app, deployed on Firebase [here](https://project-manager-2651d.firebaseapp.com/)
+
 ### What's Involved
 
 This is a full stack application using React and Redux on the frontend with the backend services managed by firebase, for this I have setup a firebase db, firebase authentication and implemented cloud functions, which is just javascript that is kept on the cloud.
